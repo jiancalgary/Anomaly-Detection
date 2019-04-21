@@ -1,4 +1,4 @@
-# **Anomaly-Detection**
+# **Anomaly Detection**
 In this post, I summarized multiple anomaly detection methods using human genreated simulation data in Python, including the folowing contents:
 
 * What are Outliers ?
